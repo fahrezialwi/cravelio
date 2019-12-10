@@ -3,7 +3,7 @@ const app = express()
 const favicon = require('express-favicon')
 const path = require('path')
 
-const port = process.env.PORT || 3000
+const port = process.env.PORT || 1000
 
 app.use(favicon(__dirname + '/build/favicon.ico'))
 

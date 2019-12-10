@@ -2,32 +2,32 @@
 
 @font-face {
     font-family: 'Cereal-Light';
-    src: local('FiraSans'), url(../fonts/Cereal-Light.ttf) format('truetype');
+    src: url(../fonts/Cereal-Light.ttf) format('truetype');
 }
 
 @font-face {
     font-family: 'Cereal-Medium';
-    src: local('FiraSans'), url(../fonts/Cereal-Medium.ttf) format('truetype');
+    src: url(../fonts/Cereal-Medium.ttf) format('truetype');
 }
 
 @font-face {
     font-family: 'Cereal-Book';
-    src: local('FiraSans'), url(../fonts/Cereal-Book.ttf) format('truetype');
+    src: url(../fonts/Cereal-Book.ttf) format('truetype');
 }
 
 @font-face {
     font-family: 'Cereal-Bold';
-    src: local('FiraSans'), url(../fonts/Cereal-Bold.ttf) format('truetype');
+    src: url(../fonts/Cereal-Bold.ttf) format('truetype');
 }
 
 @font-face {
     font-family: 'Cereal-ExtraBold';
-    src: local('FiraSans'), url(../fonts/Cereal-ExtraBold.ttf) format('truetype');
+    src: url(../fonts/Cereal-ExtraBold.ttf) format('truetype');
 }
 
 @font-face {
     font-family: 'Cereal-Black';
-    src: local('FiraSans'), url(../fonts/Cereal-Black.ttf) format('truetype');
+    src: url(../fonts/Cereal-Black.ttf) format('truetype');
 }
 
 /* Browser style */

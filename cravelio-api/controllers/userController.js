@@ -1,13 +1,11 @@
 const db = require('../database')
 const nodemailer = require('nodemailer')
 const mg = require('nodemailer-mailgun-transport')
-const jwt = require('jsonwebtoken')
 const crypto = require('crypto')
 const fs = require('fs')
 const juice = require('juice')
 const moment = require('moment')
 const apiKey = require('../configs/apiKey')
-const emailSecretKey = require('../configs/emailSecretKey')
 const accountVerification = require('../email-templates/accountVerification')
 const resetPassword = require('../email-templates/resetPassword')
 

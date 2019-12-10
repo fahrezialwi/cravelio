@@ -12,7 +12,6 @@
 # password
 apiKey.js
 appKey.js
-emailSecretKey.js
 
 # sql
 /sql
